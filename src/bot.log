@@ -1,0 +1,194 @@
+2025-10-29 00:54:35,109 [ERROR] src.market_orders - MARKET order failed for BTCUSDT: APIError(code=-2015): Invalid API-key, IP, or permissions for action
+2025-10-29 00:54:59,058 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.001
+2025-10-29 00:55:09,714 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.001
+2025-10-29 00:55:50,973 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.001
+2025-10-29 00:56:14,034 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.001
+2025-10-29 00:56:20,478 [ERROR] src.market_orders - MARKET order failed for BTCUSDT: APIError(code=-4003): Quantity less than or equal to zero.
+2025-10-29 00:56:28,463 [ERROR] src.market_orders - MARKET order failed for BTCUSDT: APIError(code=-1102): Mandatory parameter 'quantity' was not sent, was empty/null, or malformed.
+2025-10-29 00:56:44,434 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:56:44,434 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:56:47,508 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:56:47,508 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:57:10,862 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:57:10,862 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:57:18,843 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:57:18,843 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:57:44,228 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.001
+2025-10-29 00:57:44,228 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=1/5 qty=0.001
+2025-10-29 00:57:44,228 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=1/5 qty=0.001
+2025-10-29 00:57:48,119 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.001
+2025-10-29 00:57:48,119 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=2/5 qty=0.001
+2025-10-29 00:57:48,119 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=2/5 qty=0.001
+2025-10-29 00:57:52,635 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.001
+2025-10-29 00:57:52,635 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=3/5 qty=0.001
+2025-10-29 00:57:52,635 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=3/5 qty=0.001
+2025-10-29 00:57:56,631 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.001
+2025-10-29 00:57:56,631 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=4/5 qty=0.001
+2025-10-29 00:57:56,631 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=4/5 qty=0.001
+2025-10-29 00:58:00,625 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.001
+2025-10-29 00:58:00,626 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=5/5 qty=0.001
+2025-10-29 00:58:00,626 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=5/5 qty=0.001
+2025-10-29 00:58:15,671 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:58:15,672 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.001 price=60000.0
+2025-10-29 00:58:15,672 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.001 price=60000.0
+2025-10-29 00:58:16,586 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:58:16,586 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.001 price=60500.0
+2025-10-29 00:58:16,586 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.001 price=60500.0
+2025-10-29 00:58:17,520 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:58:17,520 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.001 price=61000.0
+2025-10-29 00:58:17,520 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.001 price=61000.0
+2025-10-29 00:58:18,429 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:58:18,429 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.001 price=61500.0
+2025-10-29 00:58:18,429 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.001 price=61500.0
+2025-10-29 00:58:19,664 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 00:58:19,664 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.001 price=62000.0
+2025-10-29 00:58:19,664 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.001 price=62000.0
+2025-10-29 00:58:23,349 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4024): Limit price can't be lower than 108040.97.
+2025-10-29 00:58:23,349 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.001 price=64000.0
+2025-10-29 00:58:23,349 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.001 price=64000.0
+2025-10-29 00:58:24,163 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4024): Limit price can't be lower than 108040.95.
+2025-10-29 00:58:24,163 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.001 price=64500.0
+2025-10-29 00:58:24,163 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.001 price=64500.0
+2025-10-29 00:58:25,489 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4024): Limit price can't be lower than 108041.00.
+2025-10-29 00:58:25,489 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.001 price=65000.0
+2025-10-29 00:58:25,489 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.001 price=65000.0
+2025-10-29 00:58:26,420 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4024): Limit price can't be lower than 108026.35.
+2025-10-29 00:58:26,420 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.001 price=65500.0
+2025-10-29 00:58:26,420 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.001 price=65500.0
+2025-10-29 00:58:27,677 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4024): Limit price can't be lower than 108026.35.
+2025-10-29 00:58:27,678 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.001 price=66000.0
+2025-10-29 00:58:27,678 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.001 price=66000.0
+2025-10-29 00:59:00,214 [ERROR] src.market_orders - MARKET order failed for BTCUSDT: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-10-29 00:59:03,288 [ERROR] src.market_orders - MARKET order failed for BTCUSDT: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-10-29 00:59:06,354 [ERROR] src.market_orders - MARKET order failed for BTCUSDT: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-10-29 00:59:09,832 [ERROR] src.market_orders - MARKET order failed for BTCUSDT: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-10-29 00:59:13,425 [ERROR] src.market_orders - MARKET order failed for BTCUSDT: APIError(code=-1111): Precision is over the maximum defined for this asset.
+2025-10-29 00:59:17,109 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.001
+2025-10-29 00:59:17,109 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=1/10 qty=0.001
+2025-10-29 00:59:17,109 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=1/10 qty=0.001
+2025-10-29 00:59:18,945 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.001
+2025-10-29 00:59:18,945 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=2/10 qty=0.001
+2025-10-29 00:59:18,945 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=2/10 qty=0.001
+2025-10-29 00:59:21,417 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.001
+2025-10-29 00:59:21,417 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=3/10 qty=0.001
+2025-10-29 00:59:21,417 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=3/10 qty=0.001
+2025-10-29 00:59:23,691 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.001
+2025-10-29 00:59:23,691 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=4/10 qty=0.001
+2025-10-29 00:59:23,691 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=4/10 qty=0.001
+2025-10-29 00:59:25,801 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.001
+2025-10-29 00:59:25,801 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=5/10 qty=0.001
+2025-10-29 00:59:25,801 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=5/10 qty=0.001
+2025-10-29 00:59:28,159 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.001
+2025-10-29 00:59:28,159 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=6/10 qty=0.001
+2025-10-29 00:59:28,159 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=6/10 qty=0.001
+2025-10-29 00:59:30,210 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.001
+2025-10-29 00:59:30,210 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=7/10 qty=0.001
+2025-10-29 00:59:30,210 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=7/10 qty=0.001
+2025-10-29 00:59:32,164 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.001
+2025-10-29 00:59:32,164 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=8/10 qty=0.001
+2025-10-29 00:59:32,164 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=8/10 qty=0.001
+2025-10-29 00:59:34,615 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.001
+2025-10-29 00:59:34,615 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=9/10 qty=0.001
+2025-10-29 00:59:34,615 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=9/10 qty=0.001
+2025-10-29 00:59:36,456 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.001
+2025-10-29 00:59:36,456 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=10/10 qty=0.001
+2025-10-29 00:59:36,456 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=10/10 qty=0.001
+2025-10-29 01:23:28,938 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.001
+2025-10-29 01:31:35,200 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.001
+2025-10-29 01:32:25,397 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 01:33:38,189 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 01:35:07,867 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4016): Limit price can't be higher than 118768.78.
+2025-10-29 01:35:28,188 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 01:35:59,224 [INFO] src.limit_orders - BUY LIMIT BTCUSDT qty=0.001 price=100000.0
+2025-10-29 01:37:04,337 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4024): Limit price can't be lower than 107373.85.
+2025-10-29 01:37:21,545 [ERROR] src.limit_orders - LIMIT order failed for BTCUSDT: APIError(code=-4024): Limit price can't be lower than 107453.27.
+2025-10-29 01:37:33,547 [INFO] src.limit_orders - SELL LIMIT BTCUSDT qty=0.001 price=509090.0
+2025-10-29 01:38:26,679 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 01:38:26,679 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 01:39:42,566 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 01:39:42,566 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4164): Order's notional must be no smaller than 100 (unless you choose reduce only).
+2025-10-29 01:40:31,020 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for ETHUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:40:31,020 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for ETHUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:43:07,167 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for ETHUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:43:19,756 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for ETHUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:43:39,117 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for ETHUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:44:20,777 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for ETHUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:44:29,801 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for ETHUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:44:51,631 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for ETHUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:44:58,065 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for ETHUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:45:03,611 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:45:58,389 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:46:51,432 [INFO] src.advanced.stop_limit_orders - BUY STOP-LIMIT BTCUSDT qty=0.002 stop=125000.0 limit=125500.0
+2025-10-29 01:47:59,526 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-4184): Limit price can't be lower than 118750
+2025-10-29 01:48:12,713 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:48:58,925 [ERROR] src.advanced.stop_limit_orders - STOP-LIMIT order failed for BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:52:46,160 [ERROR] src.advanced.oco - OCO failed BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:52:46,160 [ERROR] src.advanced.oco - OCO failed BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:53:09,196 [ERROR] src.advanced.oco - OCO failed BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:53:09,196 [ERROR] src.advanced.oco - OCO failed BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:53:19,987 [ERROR] src.advanced.oco - OCO failed BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:53:19,987 [ERROR] src.advanced.oco - OCO failed BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:53:28,559 [INFO] src.advanced.oco - OCO BTCUSDT TP=120000.0 SL=112000.0 qty=0.002
+2025-10-29 01:53:28,559 [INFO] src.advanced.oco - OCO BTCUSDT TP=120000.0 SL=112000.0 qty=0.002
+2025-10-29 01:54:02,650 [ERROR] src.advanced.oco - OCO failed BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:54:02,650 [ERROR] src.advanced.oco - OCO failed BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:54:26,354 [ERROR] src.advanced.oco - OCO failed BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:54:26,354 [ERROR] src.advanced.oco - OCO failed BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:54:44,458 [ERROR] src.advanced.oco - OCO failed BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:54:44,458 [ERROR] src.advanced.oco - OCO failed BTCUSDT: APIError(code=-2021): Order would immediately trigger.
+2025-10-29 01:55:16,689 [INFO] src.advanced.oco - OCO BTCUSDT TP=110000.0 SL=115000.0 qty=0.002
+2025-10-29 01:55:16,689 [INFO] src.advanced.oco - OCO BTCUSDT TP=110000.0 SL=115000.0 qty=0.002
+2025-10-29 01:55:45,058 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.002
+2025-10-29 01:55:45,059 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=1/5 qty=0.002
+2025-10-29 01:55:45,059 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=1/5 qty=0.002
+2025-10-29 01:55:50,190 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.002
+2025-10-29 01:55:50,190 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=2/5 qty=0.002
+2025-10-29 01:55:50,190 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=2/5 qty=0.002
+2025-10-29 01:55:55,407 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.002
+2025-10-29 01:55:55,407 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=3/5 qty=0.002
+2025-10-29 01:55:55,407 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=3/5 qty=0.002
+2025-10-29 01:56:00,626 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.002
+2025-10-29 01:56:00,627 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=4/5 qty=0.002
+2025-10-29 01:56:00,627 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=4/5 qty=0.002
+2025-10-29 01:56:11,378 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.005
+2025-10-29 01:56:11,379 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=1/2 qty=0.005
+2025-10-29 01:56:11,379 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=1/2 qty=0.005
+2025-10-29 01:56:16,591 [INFO] src.market_orders - BUY MARKET BTCUSDT qty=0.005
+2025-10-29 01:56:16,591 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=2/2 qty=0.005
+2025-10-29 01:56:16,591 [INFO] src.advanced.twap - TWAP BUY BTCUSDT slice=2/2 qty=0.005
+2025-10-29 01:57:40,712 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.005
+2025-10-29 01:57:40,712 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=1/2 qty=0.005
+2025-10-29 01:57:40,712 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=1/2 qty=0.005
+2025-10-29 01:57:45,364 [INFO] src.market_orders - SELL MARKET BTCUSDT qty=0.005
+2025-10-29 01:57:45,365 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=2/2 qty=0.005
+2025-10-29 01:57:45,365 [INFO] src.advanced.twap - TWAP SELL BTCUSDT slice=2/2 qty=0.005
+2025-10-29 01:58:25,949 [INFO] src.limit_orders - BUY LIMIT BTCUSDT qty=0.002 price=112000.0
+2025-10-29 01:58:25,949 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.002 price=112000.0
+2025-10-29 01:58:25,949 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.002 price=112000.0
+2025-10-29 01:58:27,150 [INFO] src.limit_orders - BUY LIMIT BTCUSDT qty=0.002 price=112375.0
+2025-10-29 01:58:27,150 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.002 price=112375.0
+2025-10-29 01:58:27,150 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.002 price=112375.0
+2025-10-29 01:58:28,072 [INFO] src.limit_orders - BUY LIMIT BTCUSDT qty=0.002 price=112750.0
+2025-10-29 01:58:28,072 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.002 price=112750.0
+2025-10-29 01:58:28,072 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.002 price=112750.0
+2025-10-29 01:58:28,715 [INFO] src.limit_orders - BUY LIMIT BTCUSDT qty=0.002 price=113125.0
+2025-10-29 01:58:28,715 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.002 price=113125.0
+2025-10-29 01:58:28,715 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.002 price=113125.0
+2025-10-29 01:58:29,612 [INFO] src.limit_orders - BUY LIMIT BTCUSDT qty=0.002 price=113500.0
+2025-10-29 01:58:29,612 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.002 price=113500.0
+2025-10-29 01:58:29,612 [INFO] src.advanced.grid_orders - GRID BUY BTCUSDT qty=0.002 price=113500.0
+2025-10-29 01:59:18,854 [INFO] src.limit_orders - SELL LIMIT BTCUSDT qty=0.002 price=114500.0
+2025-10-29 01:59:18,854 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.002 price=114500.0
+2025-10-29 01:59:18,854 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.002 price=114500.0
+2025-10-29 01:59:19,991 [INFO] src.limit_orders - SELL LIMIT BTCUSDT qty=0.002 price=114875.0
+2025-10-29 01:59:19,991 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.002 price=114875.0
+2025-10-29 01:59:19,991 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.002 price=114875.0
+2025-10-29 01:59:21,226 [INFO] src.limit_orders - SELL LIMIT BTCUSDT qty=0.002 price=115250.0
+2025-10-29 01:59:21,226 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.002 price=115250.0
+2025-10-29 01:59:21,226 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.002 price=115250.0
+2025-10-29 01:59:21,837 [INFO] src.limit_orders - SELL LIMIT BTCUSDT qty=0.002 price=115625.0
+2025-10-29 01:59:21,837 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.002 price=115625.0
+2025-10-29 01:59:21,837 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.002 price=115625.0
+2025-10-29 01:59:22,727 [INFO] src.limit_orders - SELL LIMIT BTCUSDT qty=0.002 price=116000.0
+2025-10-29 01:59:22,727 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.002 price=116000.0
+2025-10-29 01:59:22,727 [INFO] src.advanced.grid_orders - GRID SELL BTCUSDT qty=0.002 price=116000.0
